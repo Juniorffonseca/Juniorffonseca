@@ -1,6 +1,6 @@
 22 anos 🤞✨
 
-MBA em Ciência e Análise de Dados 3/4 📊
+MBA em Ciência e Análise de Dados 4/4 📊
 
 Graduado em Jogos Digitais 🎮
 

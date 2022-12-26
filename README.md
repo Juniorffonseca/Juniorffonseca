@@ -6,6 +6,7 @@ Graduado em Jogos Digitais 🎮
 
 Técnico de Administração 🗃️
 
+<a href= https://github.com/Juniorffonseca/Juniorffonseca/blob/main/README.md">
 <img align="center" src = "https://github-readme-stats.vercel.app/api?username=Juniorffonseca&show_icons=true&theme=cobalt"/>
      
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juniorffonseca&show_icons=true&theme=cobalt)

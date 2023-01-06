@@ -1,8 +1,8 @@
 <h1 align="center"> Bem-vindo!👋🏼</h1>
-<h3 align="center"> 22 anos 🤞✨</h3>
-<h3 align="center"> MBA em Ciência e Análise de Dados 4/4 📊</h3>
-<h3 align="center">Graduado em Jogos Digitais 🎮</h3>
-<h3 align="center">Técnico de Administração 🗃️</h3>
+22 anos 🤞✨
+MBA em Ciência e Análise de Dados 4/4 📊
+Graduado em Jogos Digitais 🎮
+Técnico de Administração 🗃️
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juniorffonseca&show_icons=true&theme=cobalt)

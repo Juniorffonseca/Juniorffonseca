@@ -1,11 +1,11 @@
-<h1 align="center"> Bem-vindo! </h1>
-22 anos 🤞✨
+<h1 align="center"> Bem-vindo!👋🏼</h1>
+- 22 anos 🤞✨
 
-MBA em Ciência e Análise de Dados 4/4 📊
+- MBA em Ciência e Análise de Dados 4/4 📊
 
-Graduado em Jogos Digitais 🎮
+- Graduado em Jogos Digitais 🎮
 
-Técnico de Administração 🗃️
+- Técnico de Administração 🗃️
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juniorffonseca&show_icons=true&theme=cobalt)

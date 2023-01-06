@@ -1,4 +1,4 @@
-<h1 align="center"> **Bem-vindo!👋🏼</h1>
+** <h1 align="center"> Bem-vindo!👋🏼</h1>
 <h3 align="center"> 22 anos 🤞✨</h3>
 <h3 align="center"> MBA em Ciência e Análise de Dados 4/4 📊</h3>
 <h3 align="center">Graduado em Jogos Digitais 🎮</h3>

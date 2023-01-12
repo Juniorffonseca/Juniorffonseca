@@ -18,3 +18,4 @@ Técnico de Administração 🗃️
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_jrff/) 
 [![insta](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://juniorffonseca.github.io/Portfolio/) 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edinaldoffjr/)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Juniorffonseca)](https://github.com/anuraghazra/github-readme-stats)

@@ -25,3 +25,8 @@ Técnico de Administração 🗃️
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edinaldoffjr/)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Juniorffonseca)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>

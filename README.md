@@ -4,6 +4,8 @@
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
+</div>
+  
 22 anos 🤞✨
 
 MBA em Ciência e Análise de Dados 4/4 📊
@@ -12,6 +14,7 @@ Graduado em Jogos Digitais 🎮
 
 Técnico de Administração 🗃️
 
+<div id="body" align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Juniorffonseca&theme=dark&background=000000)](https://git.io/streak-stats)
   

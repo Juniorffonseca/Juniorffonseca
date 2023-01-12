@@ -27,7 +27,7 @@ Técnico de Administração 🗃️
 
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
  
- # Tecnologias:
- <img src = 'https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/r/r-original.svg' width="40" height="40"/>&nbsp;>
+ ### Tecnologias:
+ <img src = 'https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/r/r-original.svg' width="40" height="40"/>&nbsp;
  
 </div>

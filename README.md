@@ -36,8 +36,7 @@ Técnico de Administração 🗃️
 <img src = 'https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png' width='40' height='40'/>
 <img src = 'https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png' width='40' height='40'/>
 <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png' width='40' height='40'/>
-<img src = 'https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png' width='40' height='40'/>
-
-  
+<img src = 'https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png width='40' height='40'/>
+<img src = 'https://thumbs.dreamstime.com/b/%C3%ADcone-logo-design-ui-ou-ux-app-do-base-de-dados-do-sql-96841969.jpg' height='40'/>
   
 </div>

@@ -1,5 +1,9 @@
 <h1 align="center"> Bem-vindo!👋🏼</h1>
 
+<div id="header" align="center">
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
 22 anos 🤞✨
 
 MBA em Ciência e Análise de Dados 4/4 📊
@@ -8,7 +12,7 @@ Graduado em Jogos Digitais 🎮
 
 Técnico de Administração 🗃️
 
-<div id="header" align="center">
+
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juniorffonseca&show_icons=true&theme=cobalt)
 

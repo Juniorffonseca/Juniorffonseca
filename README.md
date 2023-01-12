@@ -8,7 +8,7 @@ Graduado em Jogos Digitais 🎮
 
 Técnico de Administração 🗃️
 
-
+<div id="header" align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juniorffonseca&show_icons=true&theme=cobalt)
 
   
@@ -19,4 +19,4 @@ Técnico de Administração 🗃️
 [![insta](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://juniorffonseca.github.io/Portfolio/) 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edinaldoffjr/)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Juniorffonseca)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>

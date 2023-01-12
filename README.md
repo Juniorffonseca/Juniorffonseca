@@ -33,5 +33,11 @@ Técnico de Administração 🗃️
 <img src = 'https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg' width='40' height='40'/>
 <img src = 'https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg' width='40' height='40'/>
 <img src = 'https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg' width='40' height='40'/>
+<img src = 'https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png' width='40' height='40'/>
+<img src = 'https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png' width='40' height='40'/>
+<img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png' width='40' height='40'/>
+<img src = 'https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png' width='40' height='40'/>
+
+  
   
 </div>

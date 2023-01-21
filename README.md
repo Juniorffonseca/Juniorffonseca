@@ -39,5 +39,3 @@ Técnico de Administração 🗃️
 <img src = 'https://cdn-icons-png.flaticon.com/512/136/136525.png' height='40'/>
   
 </div>
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>

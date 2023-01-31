@@ -10,8 +10,6 @@ MBA em Ciência e Análise de Dados 4/4 📊
 
 Graduado em Jogos Digitais 🎮
 
-Técnico de Administração 🗃️
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Juniorffonseca&theme=dark&background=000000&locale=pt_BR)](https://git.io/streak-stats)
   
   

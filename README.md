@@ -1,4 +1,4 @@
-<h1 align="center"> Bem-vindo!👋🏼</h1>
+<h1 align="center">Seja bem vindo!👋🏼</h1>
 
 <div id="header" align="center">
 

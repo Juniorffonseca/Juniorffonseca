@@ -13,7 +13,7 @@ Graduado em Jogos Digitais 🎮
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Juniorffonseca&theme=dark&background=000000&locale=pt_BR)](https://git.io/streak-stats)
   
   
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Juniorffonseca&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Juniorffonseca&show_icons=true&theme=cobalt&layout=compact)
 
   
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Juniorffonseca&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)

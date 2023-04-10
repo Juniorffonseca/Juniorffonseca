@@ -6,7 +6,7 @@
   
 22 anos
 
-Analista de Dados | Machine Learning | Power BI | R | Python | SQL | MBA Data Science & Analytics
+Analista de Dados | Machine Learning | R | Python | SQL | MBA Data Science & Analytics
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Juniorffonseca&theme=dark&background=000000&locale=pt_BR)](https://git.io/streak-stats)
   

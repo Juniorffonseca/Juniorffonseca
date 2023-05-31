@@ -1,12 +1,10 @@
 <h1 align="center">Seja bem vindo!👋🏼</h1>
 
 <div id="header" align="center">
-
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   
 22 anos
 
-Analista de Dados | Machine Learning | R | Python | SQL | MBA Data Science & Analytics
+Cientista de Dados | Machine Learning | R | Python | SQL | MBA Data Science & Analytics
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Juniorffonseca&theme=dark&background=000000&locale=pt_BR)](https://git.io/streak-stats)
   

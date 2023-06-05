@@ -2,9 +2,10 @@
 
 <div id="header" align="center">
   
-# 22 anos
+### 22 anos
 
-## Cientista de Dados | MBA Data Science & Analytics
+### Cientista de Dados
+### MBA Data Science & Analytics
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Juniorffonseca&theme=dark&background=000000&locale=pt_BR)](https://git.io/streak-stats)
   

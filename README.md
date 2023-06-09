@@ -2,13 +2,7 @@
 
 <div id="header" align="center">
   
-### 22 anos
-
-### Cientista de Dados
-### MBA Data Science & Analytics
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Juniorffonseca&theme=dark&background=000000&locale=pt_BR)](https://git.io/streak-stats)
-  
+### 22 anos | Cientista de Dados | MBA Data Science & Analytics
   
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Juniorffonseca&show_icons=true&theme=cobalt)
 

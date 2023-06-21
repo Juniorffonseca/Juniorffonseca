@@ -6,7 +6,8 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Juniorffonseca&show_icons=true&theme=cobalt)
 
-  
+![](https://komarev.com/ghpvc/?username=your-github-Juniorffonseca)
+
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Juniorffonseca&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![wpp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511946357021) 

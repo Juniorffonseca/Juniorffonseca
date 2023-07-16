@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
   
-### 22 anos | Cientista de Dados | MBA Data Science & Analytics
+### 23 anos | Cientista de Dados | MBA Data Science & Analytics
   
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Juniorffonseca&show_icons=true&theme=cobalt)
 

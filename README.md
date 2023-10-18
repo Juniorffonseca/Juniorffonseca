@@ -25,5 +25,5 @@
 <img src = 'https://img.icons8.com/ios/500/power-bi.png' width='40' height='40'/>
 <img src = 'https://cdn-icons-png.flaticon.com/512/2306/2306173.png' height='40'/>
 <img src = 'https://cdn-icons-png.flaticon.com/512/136/136525.png' height='40'/>
-  
+
 </div>
